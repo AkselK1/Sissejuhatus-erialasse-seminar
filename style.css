@@ -12,3 +12,6 @@ p {
 h2 {
     text-align: end;
 }
+img {
+    border: 10px solid aqua;
+}
