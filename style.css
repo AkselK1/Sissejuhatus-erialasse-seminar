@@ -15,3 +15,19 @@ h2 {
 img {
     border: 10px solid aqua;
 }
+table {
+    border: 3px solid black;
+    opacity: 50%;
+    color-scheme: green;
+}
+body {
+    background-image: url("lumi.jpg");
+}
+
+.column {
+    width: 50%; /* Võib olla ka muu protsent või kindel pikslite arv */
+    box-sizing: border-box;
+    float: left;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
