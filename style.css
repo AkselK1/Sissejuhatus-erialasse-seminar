@@ -3,3 +3,12 @@ h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 500%;
 }
+p {
+    color: yellowgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 250%;
+    text-align: center;
+}
+h2 {
+    text-align: end;
+}
